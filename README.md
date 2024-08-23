@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou @mwxvicente
 
 ## 👀 Sobre mim
-- 🎓 Atualmente formado em Ciências Econômicas e dando meus primeiros passos em Engenharia de Software.
+- 🎓 Atualmente me formando em Ciências Econômicas e dando meus primeiros passos em Engenharia de Software.
 - 🐍 Estou começando a explorar Python, com foco em APIs e processos de ETL.
 - 🤖 Apaixonado por automações e sempre buscando maneiras de otimizar processos.
 
